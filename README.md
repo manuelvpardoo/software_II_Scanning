@@ -1,5 +1,5 @@
 
-# Automatic database creation using ROS - Grasshopper
+# Automatic database creation using ROS - Grasshopper Manuel
 
 This repository contains all our developments for the Software II group project. We explore the idea of an automatic 3D-scanned object database creator: 
 
